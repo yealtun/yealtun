@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋, I'm Emre<br>Yazılım Geliştirici - Flutter Developer - Web Developer</h2>
+<h2 align="center"> Hello 👋, I'm Emre<br>Software Developer - Flutter Developer - Web Developer</h2>
 
 ###
 
@@ -42,6 +42,7 @@
   <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge" height="30" alt="laravel logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge" height="30" alt="dot-net logo"  />
+
 </div>
 
 ###
