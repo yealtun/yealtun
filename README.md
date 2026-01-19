@@ -53,28 +53,34 @@ Mobile & Web focused software developer with hands-on experience in Flutter (And
 
 ---
 
-### 📊 GitHub Statistics
+## GitHub Analytics
 
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=yealtun&show_icons=true&theme=tokyonight&hide_border=true"
-    height="150"
+    height="165"
+    alt="GitHub Stats (yealtun)"
   />
   <img
     src="https://github-readme-streak-stats.herokuapp.com?user=yealtun&theme=tokyonight&hide_border=true"
-    height="150"
+    height="165"
+    alt="GitHub Streak Stats (yealtun)"
   />
 </p>
 
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=yealtun&layout=compact&theme=tokyonight&hide_border=true"
-    height="130"
+    height="145"
+    alt="Top Languages (yealtun)"
   />
 </p>
 
----
+<hr />
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/yealtun/count.svg" />
+  <img
+    src="https://profile-counter.glitch.me/yealtun/count.svg"
+    alt="Profile Views Counter (yealtun)"
+  />
 </p>
